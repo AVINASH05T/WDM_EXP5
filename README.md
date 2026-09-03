@@ -1,7 +1,7 @@
 ### EX5 Information Retrieval Using Boolean Model in Python
 #### NAME : AVINASH T
 #### REG NO : 212223230026
-### DATE: 29/08/2026
+#### DATE: 29/08/2026
 ### AIM: 
 To implement Information Retrieval Using Boolean Model in Python.
 ### Description:
